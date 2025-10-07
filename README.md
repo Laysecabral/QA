@@ -63,8 +63,11 @@ PYTHONPATH=. pytest --cov=src --cov-report term-missing --cov-report html -v
 O relatório exibirá no terminal a cobertura por arquivo, por exemplo:
 
 Coverage report: 92%
+
 src/__init__.py                statements 0 missing 0 excluded 0 coverage 100%
+
 src/password_validator.py      statements 13 missing 1 excluded 0 coverage 92%
+
 TOTAL                          statements 13 missing 1 excluded 0 coverage 92%
 
 5. Abrir o Relatório de Cobertura no Navegador
