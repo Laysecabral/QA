@@ -1,4 +1,4 @@
-# Este é um projeto implementa uma função de validação de senhas em Python. 
+# Este é um projeto que implementa uma função de validação de senhas em Python. 
 O foco principal é garantir que todas as regras de segurança sejam respeitadas, 
 com uma suíte de **testes unitários usando Pytest**.  
 
