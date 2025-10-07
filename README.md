@@ -1,10 +1,8 @@
 # Este é um projeto que implementa uma função de validação de senhas em Python. 
 O foco principal é garantir que todas as regras de segurança sejam respeitadas, 
-com uma suíte de **testes unitários usando Pytest**.  
-
-
-# O projeto atinge 92% de cobertura de código, garantindo que a maior parte 
-das regras de negócio seja testada automaticamente.
+com uma suíte de **testes unitários usando Pytest**.  O projeto atinge 92% de 
+cobertura de código, garantindo que a maior parte das regras de negócio seja 
+testada automaticamente.
 
 
 ## 🛠️ Tecnologias Utilizadas
