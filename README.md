@@ -25,7 +25,7 @@ O módulo `password_validator.py` implementa as seguintes regras de segurança:
 | R4. Dígito Numérico | A senha deve conter pelo menos um número. |
 | R5. Caractere Especial | A senha deve conter ao menos um caractere especial (!@#$%^&* etc). |
 
-##Como Executar o Projeto
+## Como Executar o Projeto
 
 Siga os passos abaixo para configurar o ambiente e rodar os testes no Windows com Git Bash:
 
